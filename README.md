@@ -98,36 +98,6 @@ npm run lint         # Ejecutar ESLint
 | `Box.jsx`, `board.jsx`           | Renderizado del tablero y celdas                      |
 | `Modal.jsx`                      | Modal emergente al finalizar la partida               |
 
----
-
-## 🎯 Mejoras futuras
-
-- 🎲 **IA con dificultad ajustable**: Fácil, medio, difícil
-- 📈 **Historial de partidas**: Estadísticas y resultados
-- 🎨 **Animaciones de fichas**: Efecto de caída realista
-- 📱 **Mejoras móvil**: Experiencia táctil optimizada
-- 🌍 **Multijugador online**: Partidas en tiempo real
-- 🔊 **Efectos de sonido**: Feedback auditivo
-- 🏆 **Sistema de puntuación**: Rankings y logros
-- 🎨 **Temas personalizables**: Diferentes estilos visuales
-
----
-
-## 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar el juego:
-
-1. Fork el repositorio
-2. Crea una rama para tu feature (`git checkout -b feature/nueva-funcionalidad`)
-3. Commit tus cambios (`git commit -m 'Añadir nueva funcionalidad'`)
-4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
-5. Abre un Pull Request
-
-### 📝 Issues y sugerencias
-
-- 🐛 **Bug reports**: [Reportar bug](https://github.com/jlizancandela/4linea/issues)
-- 💡 **Feature requests**: [Sugerir mejora](https://github.com/jlizancandela/4linea/issues)
-- 💬 **Discusiones**: [Discutir ideas](https://github.com/jlizancandela/4linea/discussions)
 
 ---
 
@@ -136,11 +106,5 @@ npm run lint         # Ejecutar ESLint
 MIT © 2025 [Jorge Lizán Candela](https://github.com/jlizancandela)
 
 ---
-
-## 📞 Contacto
-
-- **GitHub**: [@jlizancandela](https://github.com/jlizancandela)
-- **Email**: jlizancandela@gmail.com
-- **LinkedIn**: [Jorge Lizán Candela](https://www.linkedin.com/in/jlizancandela)
 
 🎆 ¡Gracias por visitar el proyecto! No olvides dejar una ⭐ si te gustó.
