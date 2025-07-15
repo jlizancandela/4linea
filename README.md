@@ -1,8 +1,7 @@
 # 4línea 🔴🔵
 
 Juego de **Conecta 4** moderno desarrollado con React y Vite. Incluye modo jugador contra jugador y contra IA inteligente. Proyecto educativo con arquitectura limpia y bien estructurada, ideal para aprender React, hooks y separación de responsabilidades.
-
-🎮 **[Jugar ahora](https://jlizancandela.github.io/4linea)** | 📁 **[Código fuente](https://github.com/jlizancandela/4linea)**
+📁 **[Código fuente](https://github.com/jlizancandela/4linea)**
 
 ---
 
