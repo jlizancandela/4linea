@@ -1,3 +1,10 @@
+const columnas = 7;
+const filas = 6;
+const jugador1 = "🔵";
+const jugador2 = "🔴";
+
+export { columnas, filas, jugador1, jugador2 };
+
 export const winMatrix = [
   // Horizontales →
   [0, 1, 2, 3],
